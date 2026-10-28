@@ -1,6 +1,6 @@
 
 /**
- * Multiple inheritance:
+ * Multiple Inheritance:
  * 1.Multiple Inheritance means one child class trying to inherit from more than one parent class.
  * 2.It's not possible in classes, it achive via interfaces.
  * INTERFACE:
